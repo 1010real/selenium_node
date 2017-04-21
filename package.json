@@ -1,0 +1,26 @@
+{
+  "name": "selenium_node",
+  "version": "1.0.0",
+  "description": "test for selenium-webdriver on nodejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1010real/selenium_node.git"
+  },
+  "author": "Masao Okamoto <moka0329@gmail.com> (http://1010real.hateblo.jp/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1010real/selenium_node/issues"
+  },
+  "homepage": "https://github.com/1010real/selenium_node#readme"
+}
